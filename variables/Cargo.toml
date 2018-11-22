@@ -1,0 +1,6 @@
+[package]
+name = "variables"
+version = "0.1.0"
+authors = ["minjing <min_jing@aliyun.com>"]
+
+[dependencies]
