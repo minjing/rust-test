@@ -8,9 +8,9 @@ fn main() {
 }
 
 fn another_function() {
-	println!("Another function");
+    println!("Another function");
 }
 
 fn five() -> i32 {
-	5
+    5
 }
